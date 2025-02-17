@@ -1,0 +1,17 @@
+Dairy Management APIOverviewThe Dairy Management API is designed to help dairy owners manage milk collection, farmer registrations, and transactions efficiently. This API allows owners to register, update, and delete farmers, track milk collections, and manage financial transactions.
+Features
+    Owner Registration & Management
+    Farmer Registration & Management
+    Milk Collection Tracking
+    Search & Retrieve Data
+    Data Filtering by Date
+Technologies Used
+    Spring Boot (Backend Framework)
+    Spring Data JPA (Database Management)
+    MySQL (Database)
+    Spring Security (Authentication & Authorization)
+    Lombok (Boilerplate Code Reduction)
+    Swagger (API Documentation)
+
+ContributingContributions are welcome! Please open an issue or submit a pull request for improvements.
+ContactFor any inquiries, please contact the project maintainer at ashishzambare02@gmail.com.
